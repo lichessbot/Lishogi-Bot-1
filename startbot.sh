@@ -1,3 +1,3 @@
 #!/bin/bash
-chmod +x engines/fairy-stockfish-largeboard_x86-64-bmi2
+chmod +x ./engines/fsf
 python lishogi-bot.py
